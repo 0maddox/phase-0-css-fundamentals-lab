@@ -1,5 +1,41 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  text-align:center ;
+}img{
+  width: 900px;
 }
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption{
+  font-size: smaller;
+  margin: auto;
+}
+ img [p="text"]{
+  vertical-align: auto;
+  width: 800px;
+  font-size: smaller;
+  text-align: center;
+ }
+ div{
+  width: 25%;
+  height: auto;
+  padding: initial;
+  float: left;
+  padding-left: initial;
+  background-color: red;
+  text-align: center;
+ }
+ p {
+  font-size: 2opx;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+ }
+ header{
+  text-align: center;
+ }
+      
